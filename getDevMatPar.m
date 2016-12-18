@@ -1,4 +1,4 @@
-function [ DevMat ] = getDevMatPar( GroupList , cores)
+function [ DevMat, Elements ] = getDevMatPar( GroupList , cores)
 %GETDEVMAT Summary of this function goes here
 %   Detailed explanation goes here
 
